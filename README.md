@@ -1,2 +1,2 @@
-# LightWallet
+# LightMobilWallet
 Light mobile wallet
