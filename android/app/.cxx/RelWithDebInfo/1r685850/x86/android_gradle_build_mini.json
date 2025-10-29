@@ -1,0 +1,61 @@
+{
+  "buildFiles": [
+    "C:\\ZercexWallet\\node_modules\\@react-native-async-storage\\async-storage\\android\\build\\generated\\source\\codegen\\jni\\CMakeLists.txt",
+    "C:\\ZercexWallet\\node_modules\\@react-native-clipboard\\clipboard\\android\\build\\generated\\source\\codegen\\jni\\CMakeLists.txt",
+    "C:\\ZercexWallet\\node_modules\\react-native-keychain\\android\\build\\generated\\source\\codegen\\jni\\CMakeLists.txt",
+    "C:\\ZercexWallet\\node_modules\\react-native-svg\\android\\src\\main\\jni\\CMakeLists.txt",
+    "C:\\ZercexWallet\\node_modules\\react-native\\ReactAndroid\\cmake-utils\\default-app-setup\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\Virgile\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "C:\\ZercexWallet\\android\\app\\.cxx\\RelWithDebInfo\\1r685850\\x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\Virgile\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "C:\\ZercexWallet\\android\\app\\.cxx\\RelWithDebInfo\\1r685850\\x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "react_codegen_rnclipboard::@6385240493dfcaf22ab7": {
+      "artifactName": "react_codegen_rnclipboard",
+      "abi": "x86",
+      "runtimeFiles": []
+    },
+    "appmodules::@6890427a1f51a3e7e1df": {
+      "artifactName": "appmodules",
+      "abi": "x86",
+      "output": "C:\\ZercexWallet\\android\\app\\build\\intermediates\\cxx\\RelWithDebInfo\\1r685850\\obj\\x86\\libappmodules.so",
+      "runtimeFiles": [
+        "C:\\ZercexWallet\\android\\app\\build\\intermediates\\cxx\\RelWithDebInfo\\1r685850\\obj\\x86\\libreact_codegen_rnsvg.so",
+        "C:\\Users\\Virgile\\.gradle\\caches\\9.0.0\\transforms\\5fa135f9220cf0ae1e3ee40cd371125b\\transformed\\fbjni-0.7.0\\prefab\\modules\\fbjni\\libs\\android.x86\\libfbjni.so",
+        "C:\\Users\\Virgile\\.gradle\\caches\\9.0.0\\transforms\\fff4f781da2956e97673b83a5feea22e\\transformed\\react-android-0.82.1-release\\prefab\\modules\\jsi\\libs\\android.x86\\libjsi.so",
+        "C:\\Users\\Virgile\\.gradle\\caches\\9.0.0\\transforms\\fff4f781da2956e97673b83a5feea22e\\transformed\\react-android-0.82.1-release\\prefab\\modules\\reactnative\\libs\\android.x86\\libreactnative.so"
+      ]
+    },
+    "react_codegen_RNKeychainSpec::@f9a2cb36ebca2de4baf9": {
+      "artifactName": "react_codegen_RNKeychainSpec",
+      "abi": "x86",
+      "runtimeFiles": []
+    },
+    "react_codegen_rnsvg::@4f40eb209d0c0b4a3b65": {
+      "artifactName": "react_codegen_rnsvg",
+      "abi": "x86",
+      "output": "C:\\ZercexWallet\\android\\app\\build\\intermediates\\cxx\\RelWithDebInfo\\1r685850\\obj\\x86\\libreact_codegen_rnsvg.so",
+      "runtimeFiles": [
+        "C:\\Users\\Virgile\\.gradle\\caches\\9.0.0\\transforms\\fff4f781da2956e97673b83a5feea22e\\transformed\\react-android-0.82.1-release\\prefab\\modules\\reactnative\\libs\\android.x86\\libreactnative.so",
+        "C:\\Users\\Virgile\\.gradle\\caches\\9.0.0\\transforms\\fff4f781da2956e97673b83a5feea22e\\transformed\\react-android-0.82.1-release\\prefab\\modules\\jsi\\libs\\android.x86\\libjsi.so",
+        "C:\\Users\\Virgile\\.gradle\\caches\\9.0.0\\transforms\\5fa135f9220cf0ae1e3ee40cd371125b\\transformed\\fbjni-0.7.0\\prefab\\modules\\fbjni\\libs\\android.x86\\libfbjni.so"
+      ]
+    },
+    "react_codegen_rnasyncstorage::@1596841e19ec5b9eeffe": {
+      "artifactName": "react_codegen_rnasyncstorage",
+      "abi": "x86",
+      "runtimeFiles": []
+    }
+  }
+}

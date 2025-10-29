@@ -1,0 +1,15 @@
+C:/ZercexWallet/android/app/.cxx/RelWithDebInfo/1r685850/armeabi-v7a/CMakeFiles/appmodules.dir
+C:/ZercexWallet/android/app/.cxx/RelWithDebInfo/1r685850/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/ZercexWallet/android/app/.cxx/RelWithDebInfo/1r685850/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+C:/ZercexWallet/android/app/.cxx/RelWithDebInfo/1r685850/armeabi-v7a/rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir
+C:/ZercexWallet/android/app/.cxx/RelWithDebInfo/1r685850/armeabi-v7a/rnasyncstorage_autolinked_build/CMakeFiles/edit_cache.dir
+C:/ZercexWallet/android/app/.cxx/RelWithDebInfo/1r685850/armeabi-v7a/rnasyncstorage_autolinked_build/CMakeFiles/rebuild_cache.dir
+C:/ZercexWallet/android/app/.cxx/RelWithDebInfo/1r685850/armeabi-v7a/rnclipboard_autolinked_build/CMakeFiles/react_codegen_rnclipboard.dir
+C:/ZercexWallet/android/app/.cxx/RelWithDebInfo/1r685850/armeabi-v7a/rnclipboard_autolinked_build/CMakeFiles/edit_cache.dir
+C:/ZercexWallet/android/app/.cxx/RelWithDebInfo/1r685850/armeabi-v7a/rnclipboard_autolinked_build/CMakeFiles/rebuild_cache.dir
+C:/ZercexWallet/android/app/.cxx/RelWithDebInfo/1r685850/armeabi-v7a/RNKeychainSpec_autolinked_build/CMakeFiles/react_codegen_RNKeychainSpec.dir
+C:/ZercexWallet/android/app/.cxx/RelWithDebInfo/1r685850/armeabi-v7a/RNKeychainSpec_autolinked_build/CMakeFiles/edit_cache.dir
+C:/ZercexWallet/android/app/.cxx/RelWithDebInfo/1r685850/armeabi-v7a/RNKeychainSpec_autolinked_build/CMakeFiles/rebuild_cache.dir
+C:/ZercexWallet/android/app/.cxx/RelWithDebInfo/1r685850/armeabi-v7a/rnsvg_autolinked_build/CMakeFiles/react_codegen_rnsvg.dir
+C:/ZercexWallet/android/app/.cxx/RelWithDebInfo/1r685850/armeabi-v7a/rnsvg_autolinked_build/CMakeFiles/edit_cache.dir
+C:/ZercexWallet/android/app/.cxx/RelWithDebInfo/1r685850/armeabi-v7a/rnsvg_autolinked_build/CMakeFiles/rebuild_cache.dir

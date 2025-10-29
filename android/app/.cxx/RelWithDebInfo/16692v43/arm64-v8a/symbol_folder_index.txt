@@ -1,0 +1,1 @@
+C:\Users\Virgile\ZeroClassicWalletAndroid\ZercexWallet\android\app\build\intermediates\cxx\RelWithDebInfo\16692v43\obj\arm64-v8a

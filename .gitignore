@@ -1,0 +1,23 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build outputs
+android/app/build/
+ios/build/
+ios/Pods/
+dist/
+*.keystore
+*.gradle
+*.iml
+
+# IDE
+.idea/
+.vscode/
+.bundle/
+
+# Misc
+.DS_Store
+Thumbs.db

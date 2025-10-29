@@ -1,0 +1,6 @@
+C:\ZercexWallet\node_modules\@react-native-async-storage\async-storage\android\build\generated\source\codegen\jni\CMakeLists.txt
+C:\ZercexWallet\node_modules\@react-native-clipboard\clipboard\android\build\generated\source\codegen\jni\CMakeLists.txt
+C:\ZercexWallet\node_modules\react-native-keychain\android\build\generated\source\codegen\jni\CMakeLists.txt
+C:\ZercexWallet\node_modules\react-native-safe-area-context\android\src\main\jni\CMakeLists.txt
+C:\ZercexWallet\node_modules\react-native-svg\android\src\main\jni\CMakeLists.txt
+C:\ZercexWallet\node_modules\react-native\ReactAndroid\cmake-utils\default-app-setup\CMakeLists.txt

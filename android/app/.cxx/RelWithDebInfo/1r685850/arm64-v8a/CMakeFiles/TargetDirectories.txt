@@ -1,0 +1,15 @@
+C:/ZercexWallet/android/app/.cxx/RelWithDebInfo/1r685850/arm64-v8a/CMakeFiles/appmodules.dir
+C:/ZercexWallet/android/app/.cxx/RelWithDebInfo/1r685850/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/ZercexWallet/android/app/.cxx/RelWithDebInfo/1r685850/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/ZercexWallet/android/app/.cxx/RelWithDebInfo/1r685850/arm64-v8a/rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir
+C:/ZercexWallet/android/app/.cxx/RelWithDebInfo/1r685850/arm64-v8a/rnasyncstorage_autolinked_build/CMakeFiles/edit_cache.dir
+C:/ZercexWallet/android/app/.cxx/RelWithDebInfo/1r685850/arm64-v8a/rnasyncstorage_autolinked_build/CMakeFiles/rebuild_cache.dir
+C:/ZercexWallet/android/app/.cxx/RelWithDebInfo/1r685850/arm64-v8a/rnclipboard_autolinked_build/CMakeFiles/react_codegen_rnclipboard.dir
+C:/ZercexWallet/android/app/.cxx/RelWithDebInfo/1r685850/arm64-v8a/rnclipboard_autolinked_build/CMakeFiles/edit_cache.dir
+C:/ZercexWallet/android/app/.cxx/RelWithDebInfo/1r685850/arm64-v8a/rnclipboard_autolinked_build/CMakeFiles/rebuild_cache.dir
+C:/ZercexWallet/android/app/.cxx/RelWithDebInfo/1r685850/arm64-v8a/RNKeychainSpec_autolinked_build/CMakeFiles/react_codegen_RNKeychainSpec.dir
+C:/ZercexWallet/android/app/.cxx/RelWithDebInfo/1r685850/arm64-v8a/RNKeychainSpec_autolinked_build/CMakeFiles/edit_cache.dir
+C:/ZercexWallet/android/app/.cxx/RelWithDebInfo/1r685850/arm64-v8a/RNKeychainSpec_autolinked_build/CMakeFiles/rebuild_cache.dir
+C:/ZercexWallet/android/app/.cxx/RelWithDebInfo/1r685850/arm64-v8a/rnsvg_autolinked_build/CMakeFiles/react_codegen_rnsvg.dir
+C:/ZercexWallet/android/app/.cxx/RelWithDebInfo/1r685850/arm64-v8a/rnsvg_autolinked_build/CMakeFiles/edit_cache.dir
+C:/ZercexWallet/android/app/.cxx/RelWithDebInfo/1r685850/arm64-v8a/rnsvg_autolinked_build/CMakeFiles/rebuild_cache.dir
