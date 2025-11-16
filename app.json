@@ -1,0 +1,11 @@
+{
+  "name": "ZercexWallet",
+  "displayName": "ZercexWallet",
+  "react-native": {
+    "project": {
+      "android": {
+        "packageName": "com.zercexwallet"
+      }
+    }
+  }
+}
