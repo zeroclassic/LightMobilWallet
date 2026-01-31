@@ -35,14 +35,20 @@ Currently supports transparent ZERC addresses only (t1...)
 
 
 ❤️ Support the $ZERC Ecosystem
+
 If you like the project, feel free to support it by:
+
 ⭐ Starring the repository
 🌐 Sharing the wallet with new ZERC users
 🔁 Contributing, reporting issues, or submitting pull requests
 
 🌍 Community & Links
+
 📢 Telegram: https://t.me/+J6eNqDWAYdphY2Q0
+
 🐦 Twitter / X: https://x.com/ZeroClassic_
+
 💱 Exchange: https://zercex.xyz
+
 
 🟣 Download now and manage your ZERC anywhere — with full key control!
