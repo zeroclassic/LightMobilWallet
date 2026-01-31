@@ -106,9 +106,9 @@ type ViewKey = 'home' | 'send' | 'history';
 type Mode = 'loading' | 'setpin' | 'unlock' | 'wallet';
 
 // RPC
-const RPC_URL = 'http://88.175.253.184:4488';
-const RPC_USER = 'rpcuserdcazerc';
-const RPC_PASS = 'rpcpassdcazerc';
+const RPC_URL = 'http://ip:port';
+const RPC_USER = 'rpcuser';
+const RPC_PASS = 'rpcpass';
 let rpcId = 0;
 
 async function rpcCall(method: string, params: any[] = []) {
